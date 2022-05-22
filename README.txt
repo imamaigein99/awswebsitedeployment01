@@ -14,6 +14,6 @@ URL Below to access the Website on AWS.
 
 https://d3ovle3u6yfb4r.cloudfront.net
 https://my-2113-website.s3.amazonaws.com/index.html
-http://my-2113-website.s3-website.us-east-1.amazonaws.com/
+http://my-2113-website.s3-website.us-east-1.amazonaws.com
 
 Screenshot are available in the docx file --> awsweek1deployment.docx
